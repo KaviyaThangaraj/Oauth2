@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eaa70ad-f463-4ea4-87fa-6db36489f887" name="Default" comment="" />
+    <list default="true" id="4eaa70ad-f463-4ea4-87fa-6db36489f887" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
+            <state relative-caret-position="0">
               <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
               <folding />
             </state>
@@ -26,8 +28,8 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/myoauth/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,8 +40,8 @@
       <file leaf-file-name="AuthorizationServerConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/myoauth/config/AuthorizationServerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="104" lean-forward="false" selection-start-line="39" selection-start-column="104" selection-end-line="39" selection-end-column="104" />
+            <state relative-caret-position="438">
+              <caret line="39" column="105" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="105" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,10 +52,42 @@
       <file leaf-file-name="AuthorizationEndpoint.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="89" column="115" lean-forward="true" selection-start-line="89" selection-start-column="115" selection-end-line="89" selection-end-column="115" />
+            <state relative-caret-position="435">
+              <caret line="89" column="115" lean-forward="false" selection-start-line="89" selection-start-column="115" selection-end-line="89" selection-end-column="115" />
               <folding>
-                <element signature="e#0#24153#0" expanded="true" />
+                <marker date="1536903455000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1536903455000" expanded="false" signature="177:3770" ph="..." />
+                <marker date="1536903455000" expanded="true" signature="3772:3835" ph="@{...}" />
+                <marker date="1536903455000" expanded="true" signature="4573:4580" ph="{}" />
+                <marker date="1536903455000" expanded="true" signature="4668:4735" ph="{...}" />
+                <marker date="1536903455000" expanded="false" signature="4783:4794" ph=" { " />
+                <marker date="1536903455000" expanded="false" signature="4821:4827" ph=" }" />
+                <marker date="1536903455000" expanded="true" signature="5028:7916" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="7922:8062" ph="@{...}" />
+                <marker date="1536903455000" expanded="true" signature="8219:10506" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="10657:10914" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="11009:11891" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="12016:12323" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="12439:12791" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="12904:14610" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="14749:15362" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="15474:16002" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="16133:17187" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="17268:17337" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="17444:19615" ph="{...}" />
+                <marker date="1536903455000" expanded="false" signature="19677:19688" ph=" { " />
+                <marker date="1536903455000" expanded="false" signature="19729:19735" ph=" }" />
+                <marker date="1536903455000" expanded="true" signature="19835:19910" ph="{...}" />
+                <marker date="1536903455000" expanded="false" signature="19982:19993" ph=" { " />
+                <marker date="1536903455000" expanded="false" signature="20034:20040" ph=" }" />
+                <marker date="1536903455000" expanded="true" signature="20122:20185" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="20276:20345" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="20430:20437" ph="{}" />
+                <marker date="1536903455000" expanded="true" signature="20616:20800" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="20961:21090" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="21290:21511" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="21614:23040" ph="{...}" />
+                <marker date="1536903455000" expanded="true" signature="23137:24150" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -62,7 +96,7 @@
       <file leaf-file-name="ServerSecurityConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/myoauth/config/ServerSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="105">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -104,6 +138,9 @@
       <find>ClientRegistrationException</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -132,6 +169,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -191,125 +229,14 @@
             </path>
             <path>
               <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="myoauth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.14.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.14.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-oauth2-2.0.14.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.14.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-oauth2-2.0.14.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.14.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-oauth2-2.0.14.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.14.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-oauth2-2.0.14.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.14.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-oauth2-2.0.14.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.14.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-oauth2-2.0.14.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="configurers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.14.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-oauth2-2.0.14.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.14.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-oauth2-2.0.14.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security:spring-security-config:4.2.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security:spring-security-config:4.2.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-config-4.2.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security:spring-security-config:4.2.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-config-4.2.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security:spring-security-config:4.2.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-config-4.2.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security:spring-security-config:4.2.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-config-4.2.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myoauth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.security:spring-security-config:4.2.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-security-config-4.2.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="myoauth" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -475,8 +402,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50060457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5126965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5247884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3361548" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -488,10 +415,31 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44860944" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44860944" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50060457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5126965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -523,6 +471,145 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE.jar!/org/springframework/security/oauth2/provider/token/TokenStore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE.jar!/org/springframework/security/oauth2/provider/endpoint/CheckTokenEndpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="46" column="57" lean-forward="false" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#3405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/AuthorizationServerSecurityConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myoauth/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="89" column="115" lean-forward="false" selection-start-line="89" selection-start-column="115" selection-end-line="89" selection-end-column="115" />
+          <folding>
+            <marker date="1536903455000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1536903455000" expanded="false" signature="177:3770" ph="..." />
+            <marker date="1536903455000" expanded="true" signature="3772:3835" ph="@{...}" />
+            <marker date="1536903455000" expanded="true" signature="4573:4580" ph="{}" />
+            <marker date="1536903455000" expanded="true" signature="4668:4735" ph="{...}" />
+            <marker date="1536903455000" expanded="false" signature="4783:4794" ph=" { " />
+            <marker date="1536903455000" expanded="false" signature="4821:4827" ph=" }" />
+            <marker date="1536903455000" expanded="true" signature="5028:7916" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="7922:8062" ph="@{...}" />
+            <marker date="1536903455000" expanded="true" signature="8219:10506" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="10657:10914" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="11009:11891" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="12016:12323" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="12439:12791" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="12904:14610" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="14749:15362" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="15474:16002" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="16133:17187" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="17268:17337" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="17444:19615" ph="{...}" />
+            <marker date="1536903455000" expanded="false" signature="19677:19688" ph=" { " />
+            <marker date="1536903455000" expanded="false" signature="19729:19735" ph=" }" />
+            <marker date="1536903455000" expanded="true" signature="19835:19910" ph="{...}" />
+            <marker date="1536903455000" expanded="false" signature="19982:19993" ph=" { " />
+            <marker date="1536903455000" expanded="false" signature="20034:20040" ph=" }" />
+            <marker date="1536903455000" expanded="true" signature="20122:20185" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="20276:20345" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="20430:20437" ph="{}" />
+            <marker date="1536903455000" expanded="true" signature="20616:20800" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="20961:21090" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="21290:21511" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="21614:23040" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="23137:24150" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myoauth/config/ServerSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1536903455000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1536903455000" expanded="false" signature="195:525" ph="..." />
+            <marker date="1536903455000" expanded="true" signature="670:677" ph="{}" />
+            <marker date="1536903455000" expanded="true" signature="770:777" ph="{}" />
+            <marker date="1536903455000" expanded="true" signature="862:869" ph="{}" />
+            <marker date="1536903455000" expanded="true" signature="964:971" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/myoauth/config/AuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="39" column="104" lean-forward="false" selection-start-line="39" selection-start-column="104" selection-end-line="39" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -542,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,13 +636,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
+        <state relative-caret-position="0">
           <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding />
         </state>
@@ -564,8 +649,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/myoauth/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -592,7 +677,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/myoauth/config/ServerSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="105">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -604,18 +689,50 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.0.14.RELEASE/spring-security-oauth2-2.0.14.RELEASE.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="89" column="115" lean-forward="true" selection-start-line="89" selection-start-column="115" selection-end-line="89" selection-end-column="115" />
+        <state relative-caret-position="435">
+          <caret line="89" column="115" lean-forward="false" selection-start-line="89" selection-start-column="115" selection-end-line="89" selection-end-column="115" />
           <folding>
-            <element signature="e#0#24153#0" expanded="true" />
+            <marker date="1536903455000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1536903455000" expanded="false" signature="177:3770" ph="..." />
+            <marker date="1536903455000" expanded="true" signature="3772:3835" ph="@{...}" />
+            <marker date="1536903455000" expanded="true" signature="4573:4580" ph="{}" />
+            <marker date="1536903455000" expanded="true" signature="4668:4735" ph="{...}" />
+            <marker date="1536903455000" expanded="false" signature="4783:4794" ph=" { " />
+            <marker date="1536903455000" expanded="false" signature="4821:4827" ph=" }" />
+            <marker date="1536903455000" expanded="true" signature="5028:7916" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="7922:8062" ph="@{...}" />
+            <marker date="1536903455000" expanded="true" signature="8219:10506" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="10657:10914" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="11009:11891" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="12016:12323" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="12439:12791" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="12904:14610" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="14749:15362" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="15474:16002" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="16133:17187" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="17268:17337" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="17444:19615" ph="{...}" />
+            <marker date="1536903455000" expanded="false" signature="19677:19688" ph=" { " />
+            <marker date="1536903455000" expanded="false" signature="19729:19735" ph=" }" />
+            <marker date="1536903455000" expanded="true" signature="19835:19910" ph="{...}" />
+            <marker date="1536903455000" expanded="false" signature="19982:19993" ph=" { " />
+            <marker date="1536903455000" expanded="false" signature="20034:20040" ph=" }" />
+            <marker date="1536903455000" expanded="true" signature="20122:20185" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="20276:20345" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="20430:20437" ph="{}" />
+            <marker date="1536903455000" expanded="true" signature="20616:20800" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="20961:21090" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="21290:21511" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="21614:23040" ph="{...}" />
+            <marker date="1536903455000" expanded="true" signature="23137:24150" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/myoauth/config/AuthorizationServerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="104" lean-forward="false" selection-start-line="39" selection-start-column="104" selection-end-line="39" selection-end-column="104" />
+        <state relative-caret-position="438">
+          <caret line="39" column="105" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="105" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
